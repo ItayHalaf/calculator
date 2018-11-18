@@ -1,0 +1,9 @@
+.calc {
+    display: grid;
+    background-color: lightblue;
+    grid-template-rows: 20% 1fr;
+    text-align: center;
+    width: 25%;
+    height: 50%;
+    margin: auto;
+  }

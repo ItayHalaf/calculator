@@ -1,0 +1,7 @@
+.screen {
+    background-color: lightblue;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
